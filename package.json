@@ -1,0 +1,19 @@
+{
+  "name": "desp2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "desp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon desp.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "web3": "^1.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.9"
+  }
+}
